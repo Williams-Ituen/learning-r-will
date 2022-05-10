@@ -1,6 +1,6 @@
 # Feedback on your BMI coding challenge script
 
-Overall, coding syntax and approach shows that you have grasped and understood what we have been discussing with regard to basics of using R. Well done. Following are more specific bullet points of what you have done well and some points on what you can consider doing next time and you progress with your work in R.
+Overall, coding syntax and approach shows that you have grasped and understood what we have been discussing with regard to basics of using R. Well done. Following are more specific bullet points of what you have done well and some points on what you can consider doing next time as you progress with your work in R.
 
 ## 1. Good use of intermediate objects
 
@@ -44,5 +44,5 @@ In the code I suggest, you are using all the indexing and operators and function
 
 ## 4. Give you code some breathing space and make it more readable
 
-This is not a big issue as it is a style preference but I think it is important. Your code can use with some spacing in between lines especially when it is a new topic or new task. This helps reader/reviewer/collaborator read your code.
+This is not a big issue as it is a style preference but I think it is important. Your code can use with some more spacing in between lines especially when it is a new topic or new task. This helps reader/reviewer/collaborator read your code.
 
